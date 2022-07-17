@@ -1,26 +1,30 @@
 * {
-  background-color: rgb(191, 243, 207);
+  background-color: #14213d;
   font-family: Verdana, sans-serif;
   font-size: 24px;
+  color: #e5e5e5;
 }
 .index {
   text-align: center;
+  border: 5px solid #000;
 }
 h1 {
   font-size: 52px;
   font-weight: 800;
-  color: rgba(240, 16, 16, 0.8);
+  color: #fca311;
   text-align: center;
 }
 .ing,
 .steps {
-  color: rgba(240, 16, 16, 0.8);
+  color: #fca311;
 }
 li {
   font-size: 20px;
-  color: rgb(56, 54, 54);
 }
 .img {
   width: 300px;
   height: auto;
+}
+.index-list {
+  list-style: none;
 }
