@@ -28,3 +28,12 @@ li {
 .index-list {
   list-style: none;
 }
+
+a:link {
+  color: #e5e5e5;
+  text-decoration: none;
+}
+a:hover {
+  color: #fca311;
+  font-weight: bold;
+}
